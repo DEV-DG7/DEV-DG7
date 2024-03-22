@@ -1,9 +1,9 @@
 ## Hello World! Me chamo Lucas.
 
-[![Blog](https://img.shields.io/website?label=DEV-DG.com&style=for-the-badge&url=https://DEV-DG7.com/)](https://DEV-DG7)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/DEV-DG7)
-[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dev._.DG7)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/DEV-DG7)
+[![BLOG](https://img.shields.io/badge/BLOGGER-D2691E?style=for-the-badge&logo=BLOGGER&logoColor=white)](http://dev-dg7.blogspot.com/)
+[![DISCORD](https://img.shields.io/badge/DISCORD-0000FF?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.com/invite/ZQmud7cU)
+[![Instagram](https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev._.dg7?igsh=MWdsb3BhOWxoZHV3ag==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-dg7-37l1u9)
 
 ![DEV-DG7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-DG7&show_icons=true&theme=tokyonight&count_private=true)
 
